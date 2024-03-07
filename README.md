@@ -20,6 +20,8 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![MongDB](https://img.shields.io/badge/mongdb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=000000)
+![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=000000)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
