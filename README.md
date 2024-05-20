@@ -36,7 +36,7 @@
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-
+![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choijuns&layout=compact)
 -->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijuns&theme=tokyonight)
